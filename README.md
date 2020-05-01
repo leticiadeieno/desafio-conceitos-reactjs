@@ -9,8 +9,8 @@
 # Índice
 
 - [Sobre](#-sobre)
-- [Teconologias Utilizadas](#tecnologias-utilizadas)
-- [Como Baixar o Projeto](#como-baixar-o-projeto)
+- [Teconologias Utilizadas](#-tecnologias-utilizadas)
+- [Como Baixar o Projeto](#-como-baixar-o-projeto)
 
 ---
 
